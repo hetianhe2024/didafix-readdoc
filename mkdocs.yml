@@ -1,0 +1,79 @@
+site_name: 滴答修文档
+site_url: https://xiaojingxiu.readthedocs.io
+site_description: 滴答修 - 专业在线图片处理工具平台使用指南
+site_author: 滴答修团队
+
+# 仓库信息（如果有的话可以添加）
+# repo_url: https://github.com/xiaojingxiu/xiaojingxiu
+# repo_name: xiaojingxiu/xiaojingxiu
+
+# 主题配置
+theme:
+  name: material
+  language: zh
+  palette:
+    # 浅色模式
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: 切换到深色模式
+    # 深色模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: 切换到浅色模式
+  features:
+    - navigation.instant      # 即时加载
+    - navigation.tracking     # 跟踪锚点
+    - navigation.tabs         # 顶部导航标签
+    - navigation.top          # 返回顶部按钮
+    - search.suggest          # 搜索建议
+    - search.highlight        # 搜索高亮
+    - content.code.copy       # 代码复制按钮
+
+# 导航结构（简化版）
+nav:
+  - 首页: index.md
+  - 功能列表: features.md
+  - 快速开始: quickstart.md
+  - 关于我们: about.md
+
+# Markdown 扩展
+markdown_extensions:
+  - admonition                # 提示框
+  - pymdownx.details          # 可折叠提示框
+  - pymdownx.superfences      # 代码块增强
+  - pymdownx.highlight:       # 代码高亮
+      anchor_linenums: true
+  - pymdownx.inlinehilite     # 行内代码高亮
+  - pymdownx.tabbed:          # 标签页
+      alternate_style: true
+  - tables                    # 表格支持
+  - toc:                      # 目录
+      permalink: true
+      title: 目录
+  - attr_list                 # 属性列表
+  - md_in_html                # HTML 中的 Markdown
+  - pymdownx.emoji:           # Emoji 支持
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+# 额外配置
+extra:
+  social:
+    - icon: fontawesome/solid/globe
+      link: https://xiaojingxiu.com
+      name: 官方网站
+
+# 插件
+plugins:
+  - search:
+      lang:
+        - zh
+        - en
