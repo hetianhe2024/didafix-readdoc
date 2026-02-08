@@ -3,9 +3,10 @@ site_url: https://xiaojingxiu.readthedocs.io
 site_description: 滴答修 - 专业在线图片处理工具平台使用指南
 site_author: 滴答修团队
 
-# 仓库信息（如果有的话可以添加）
-# repo_url: https://github.com/xiaojingxiu/xiaojingxiu
-# repo_name: xiaojingxiu/xiaojingxiu
+# 仓库信息
+repo_url: https://github.com/hetianhe2024/didafix-readdoc
+repo_name: hetianhe2024/didafix-readdoc
+edit_uri: edit/main/docs/
 
 # 主题配置
 theme:
@@ -70,6 +71,12 @@ extra:
     - icon: fontawesome/solid/globe
       link: https://xiaojingxiu.com
       name: 官方网站
+    - icon: fontawesome/brands/github
+      link: https://github.com/hetianhe2024/didafix-readdoc
+      name: GitHub 仓库
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/TianheHe42435
+      name: Twitter/X
 
 # 插件
 plugins:
