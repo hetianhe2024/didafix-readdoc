@@ -33,7 +33,7 @@
 
 ## 🖼️ 2. 图片格式转换
 
-**🔗 [立即使用 - 图片格式转换工具](https://xiaojingxiu.com/image-format-converter/)**
+**🔗 [立即使用 - 图片格式转换工具](https://xiaojingxiu.com/format-conversion/)**
 
 ### 功能介绍
 支持多种图片格式之间的快速转换，包括 JPG、PNG、WebP、BMP、GIF 等常见格式。
@@ -64,7 +64,7 @@
 
 ## ✂️ 3. AI智能抠图
 
-**🔗 [立即使用 - AI智能抠图工具](https://xiaojingxiu.com/ai-cutout/)**
+**🔗 [立即使用 - AI智能抠图工具](https://xiaojingxiu.com/image-matting/)**
 
 ### 功能介绍
 使用先进的AI技术，自动识别图片主体并精确分离前景和背景，生成透明背景图片。
@@ -98,7 +98,7 @@
 
 ## 🔍 4. OCR文字识别
 
-**🔗 [立即使用 - OCR文字识别工具](https://xiaojingxiu.com/ocr/)**
+**🔗 [立即使用 - OCR文字识别工具](https://xiaojingxiu.com/text-recognition/)**
 
 ### 功能介绍
 高精度识别图片中的文字内容，支持中文、英文、数字以及表格识别，快速将图片转为可编辑的文本。
@@ -168,7 +168,7 @@
 
 ## ⭕ 6. 图片圆角处理
 
-**🔗 [立即使用 - 图片圆角处理工具](https://xiaojingxiu.com/image-round-corner/)**
+**🔗 [立即使用 - 图片圆角处理工具](https://xiaojingxiu.com/rounded-corners/)**
 
 ### 功能介绍
 为图片添加美观的圆角效果，支持自定义圆角半径和透明背景。
@@ -196,7 +196,7 @@
 
 ## 🗜️ 7. 图片压缩
 
-**🔗 [立即使用 - 图片压缩工具](https://xiaojingxiu.com/image-compress/)**
+**🔗 [立即使用 - 图片压缩工具](https://xiaojingxiu.com/image-compression/)**
 
 ### 功能介绍
 智能压缩图片文件大小，在保持视觉质量的同时显著减小存储空间。
@@ -233,7 +233,7 @@
 
 ## 🏷️ 8. 图片加水印
 
-**🔗 [立即使用 - 图片加水印工具](https://xiaojingxiu.com/add-watermark/)**
+**🔗 [立即使用 - 图片加水印工具](https://xiaojingxiu.com/watermark/)**
 
 ### 功能介绍
 为图片添加文字或Logo水印，保护版权，防止盗图。
@@ -276,7 +276,7 @@
 
 ## 🧹 9. 图片去水印
 
-**🔗 [立即使用 - 图片去水印工具](https://xiaojingxiu.com/remove-watermark/)**
+**🔗 [立即使用 - 图片去水印工具](https://xiaojingxiu.com/watermark-removal/)**
 
 ### 功能介绍
 使用AI智能识别并去除图片中的水印、文字、Logo等不需要的元素。
@@ -316,7 +316,7 @@
 - **会员版** - 不限次数使用，享受更快处理速度
 - **按需付费** - 单次购买积分，灵活使用
 
-详细定价请访问 [官网定价页面](https://xiaojingxiu.com/#pricing)。
+详细定价请访问 [官网定价页面](https://xiaojingxiu.com/pricing/）。
 
 ---
 

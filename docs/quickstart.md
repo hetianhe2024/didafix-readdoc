@@ -17,7 +17,9 @@
 
 ### 1. 图片转PDF
 
-**🔗 [打开工具](https://xiaojingxiu.com/image-to-pdf/)** | 将多张图片合并为一个PDF文件。
+**🔗 [立即使用 - 图片转PDF工具](https://xiaojingxiu.com/image-to-pdf/)**
+
+将多张图片合并为一个PDF文件。
 
 **操作步骤：**
 
@@ -52,7 +54,9 @@
 
 ### 2. 图片格式转换
 
-**🔗 [打开工具](https://xiaojingxiu.com/image-format-converter/)** | 快速转换图片格式，如JPG转PNG、PNG转WebP等。
+**🔗 [立即使用 - 图片格式转换工具](https://xiaojingxiu.com/format-conversion/)**
+
+快速转换图片格式，如JPG转PNG、PNG转WebP等。
 
 **操作步骤：**
 
@@ -82,7 +86,9 @@
 
 ### 3. AI智能抠图
 
-**🔗 [打开工具](https://xiaojingxiu.com/ai-cutout/)** | 自动识别主体，去除背景，生成透明背景图片。
+**🔗 [立即使用 - AI智能抠图工具](https://xiaojingxiu.com/image-matting/)**
+
+自动识别主体，去除背景，生成透明背景图片。
 
 **操作步骤：**
 
@@ -138,7 +144,9 @@
 
 ### 4. OCR文字识别
 
-**🔗 [打开工具](https://xiaojingxiu.com/ocr/)** | 识别图片中的文字，转为可编辑文本。
+**🔗 [立即使用 - OCR文字识别工具](https://xiaojingxiu.com/text-recognition/)**
+
+识别图片中的文字，转为可编辑文本。
 
 **操作步骤：**
 
@@ -174,7 +182,9 @@
 
 ### 5. 图片尺寸调整
 
-**🔗 [打开工具](https://xiaojingxiu.com/image-resize/)** | 调整图片的像素尺寸，适配不同平台。
+**🔗 [立即使用 - 图片尺寸调整工具](https://xiaojingxiu.com/image-resize/)**
+
+调整图片的像素尺寸，适配不同平台。
 
 **操作步骤：**
 
@@ -216,7 +226,9 @@
 
 ### 6. 图片圆角处理
 
-**🔗 [打开工具](https://xiaojingxiu.com/image-round-corner/)** | 为图片添加圆角效果，让图片更美观。
+**🔗 [立即使用 - 图片圆角处理工具](https://xiaojingxiu.com/rounded-corners/)**
+
+为图片添加圆角效果，让图片更美观。
 
 **操作步骤：**
 
@@ -245,7 +257,9 @@
 
 ### 7. 图片压缩
 
-**🔗 [打开工具](https://xiaojingxiu.com/image-compress/)** | 压缩图片文件大小，加快加载速度，节省空间。
+**🔗 [立即使用 - 图片压缩工具](https://xiaojingxiu.com/image-compression/)**
+
+压缩图片文件大小，加快加载速度，节省空间。
 
 **操作步骤：**
 
@@ -274,7 +288,9 @@
 
 ### 8. 图片加水印
 
-**🔗 [打开工具](https://xiaojingxiu.com/add-watermark/)** | 为图片添加文字或Logo水印，保护版权。
+**🔗 [立即使用 - 图片加水印工具](https://xiaojingxiu.com/watermark/)**
+
+为图片添加文字或Logo水印，保护版权。
 
 **操作步骤：**
 
@@ -314,7 +330,9 @@
 
 ### 9. 图片去水印
 
-**🔗 [打开工具](https://xiaojingxiu.com/remove-watermark/)** | 去除图片中的水印、Logo或不需要的元素。
+**🔗 [立即使用 - 图片去水印工具](https://xiaojingxiu.com/watermark-removal/)**
+
+去除图片中的水印、Logo或不需要的元素。
 
 **操作步骤：**
 
