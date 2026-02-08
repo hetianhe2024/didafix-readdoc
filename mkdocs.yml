@@ -12,6 +12,7 @@ edit_uri: edit/main/docs/
 theme:
   name: material
   language: zh
+  custom_dir: docs/.overrides
   palette:
     # 浅色模式
     - media: "(prefers-color-scheme: light)"
